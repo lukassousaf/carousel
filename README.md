@@ -3,11 +3,11 @@
 # Carousel 🎠
 
 
-[![Author](https://img.shields.io/badge/author-lukassousaf-222222?style=flat-square)](https://github.com/lukassousaf)
-[![Languages](https://img.shields.io/github/languages/count/lukassousaf/carousel?color=%23222222&style=flat-square)](#)
-[![Stars](https://img.shields.io/github/stars/lukassousaf/carousel?color=222222&style=flat-square)](https://github.com/lukassousaf/carousel/stargazers)
-[![Forks](https://img.shields.io/github/forks/lukassousaf/carousel?color=%23222222&style=flat-square)](https://github.com/lukassousaf/carousel/network/members)
-[![Contributors](https://img.shields.io/github/contributors/lukassousaf/carousel?color=222222&style=flat-square)](https://github.com/lukassousaf/carousel/graphs/contributors)
+[![Author](https://img.shields.io/badge/author-lukassousaf-1E90FF?style=flat-square)](https://github.com/lukassousaf)
+[![Languages](https://img.shields.io/github/languages/count/lukassousaf/carousel?color=%231E90FF&style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lukassousaf/carousel?color=1E90FF&style=flat-square)](https://github.com/lukassousaf/carousel/stargazers)
+[![Forks](https://img.shields.io/github/forks/lukassousaf/carousel?color=%231E90FF&style=flat-square)](https://github.com/lukassousaf/carousel/network/members)
+[![Contributors](https://img.shields.io/github/contributors/lukassousaf/carousel?color=1E90FF&style=flat-square)](https://github.com/lukassousaf/carousel/graphs/contributors)
 
 
 <br />
@@ -22,7 +22,6 @@
 
 * [Features](#rocket-features)
 * [Getting Started](#runner-getting-started)
-* [Issues](#bug-issues)
 * [License](#closed_book-license)
 
 
